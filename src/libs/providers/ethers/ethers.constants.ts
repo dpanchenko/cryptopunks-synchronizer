@@ -1,0 +1,1 @@
+export const ETHERS_PROVIDER_TOKEN = Symbol('ETHERS_PROVIDER_TOKEN');

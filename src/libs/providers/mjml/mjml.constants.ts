@@ -1,0 +1,1 @@
+export const MJML_PROVIDER_TOKEN = Symbol('MJML_PROVIDER_TOKEN');
